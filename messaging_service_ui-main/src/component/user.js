@@ -1,0 +1,1 @@
+export default function First(props) {console.log(props)}
